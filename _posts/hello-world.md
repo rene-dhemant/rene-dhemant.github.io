@@ -1,5 +1,6 @@
 ---
-title: Hellow World
+layout: post
+title: "Hellow World"
 categories: [codebase, seo]
 tags: [tag1,tag2]
 ---
