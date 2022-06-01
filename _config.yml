@@ -89,7 +89,7 @@ avatar: https://pbs.twimg.com/profile_images/1521059673507565568/XdUZL5v4_400x40
 # boolean type, the global switch for ToC in posts.
 toc: true
 
-future: false
+#future: false
 
 comments:
   active:         # The global switch for posts comments, e.g., 'disqus'.  Keep it empty means disable
